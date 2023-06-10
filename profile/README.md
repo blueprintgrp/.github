@@ -1,3 +1,2 @@
-# The Johain Group
+## Get Involved
 
-- The Johain Development Group
