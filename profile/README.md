@@ -1,2 +1,1 @@
-## Get Involved
-
+# Blueprint
